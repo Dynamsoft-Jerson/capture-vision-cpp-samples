@@ -2,15 +2,22 @@
 
 This repository contains multiple samples that demonstrate how to use the [Dynamsoft Capture Vision](https://www.dynamsoft.com/capture-vision/docs/core/introduction/?lang=cplusplus) C++ Edition.
 
-## Requirements
+## System Requirements
 
-- Windows
-  - Windows 8 and higher, or Windows Server 2012 and higher.
-  - Visual Studio 2012 or above
-- Linux
-  - Linux x64: Ubuntu 14.04.4+ LTS, Debian 8+, CentOS 7+.
-  - Linux ARM 64-bit
-  - GCC 5.4+
+### Supported Platforms
+
+**Windows**
+- Supported Versions: Windows 8 and higher, or Windows Server 2012 and higher
+- Architectures: x64, x86
+
+**Linux**
+- Supported Distributions: Ubuntu 18.04+ LTS, Debian 10+, CentOS/RHEL 8+
+- Architectures: x64, ARM64
+- Dependencies: glibc 2.27 or higher
+
+### Development Environment
+- Visual Studio 2012 or higher
+- GCC 5.4+ / G++ 5.4+
 
 ## Samples
 
